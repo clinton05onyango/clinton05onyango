@@ -69,20 +69,6 @@ Git • GitHub • Render • VS Code
 - 🚀 Building practical portfolio projects
 - 🌍 Open to remote software development and contract opportunities
 
-## 📂 Other Projects
-
-### Ruku Shop Enterprise
-
-An e-commerce project demonstrating web development and business-oriented application development.
-
-🔗 [View Repository](https://github.com/clinton05onyango/RUKU-SHOP-ENTERPRISE-CLINTON)
-
-### Clinton Website
-
-A personal website project demonstrating frontend development and responsive web design.
-
-🔗 [View Repository](https://github.com/clinton05onyango/CLINTON-WEBSITE)
-
 ## 📫 Connect
 
 - GitHub: [@clinton05onyango](https://github.com/clinton05onyango)
