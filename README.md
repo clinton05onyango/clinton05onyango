@@ -4,15 +4,15 @@
 
 I'm a Computer Science student focused on building practical, user-focused web applications and strengthening my software engineering skills through hands-on projects.
 
-I enjoy working across both frontend and backend development, building REST APIs, integrating databases, implementing authentication, and developing practical solutions to real-world problems.
+I enjoy working across frontend and backend development, building REST APIs, integrating databases, implementing authentication, and developing practical solutions to real-world problems.
 
 ## 🚀 Featured Project
 
 ### Job Application Tracker
 
-A full-stack web application that helps job seekers organize, manage, and monitor their job applications from one dashboard.
+A full-stack web application that helps job seekers organize, manage, and monitor their job applications from a single dashboard.
 
-**Technologies:**
+**Tech Stack:**
 
 * React
 * Vite
@@ -23,8 +23,8 @@ A full-stack web application that helps job seekers organize, manage, and monito
 * PostgreSQL
 * Neon
 * Axios
-* HTML
-* CSS
+* HTML5
+* CSS3
 * Git & GitHub
 * Render
 
@@ -85,7 +85,7 @@ An ongoing e-commerce web application focused on product management, customers, 
 
 An ongoing fintech development project involving wallet management, transactions, deposits, M-Pesa STK Push integration, payment callbacks, transaction verification, and database processing.
 
-**Technologies:** PHP • MySQL • APIs • JavaScript
+**Technologies:** PHP • MySQL • JavaScript • APIs
 
 ## 🎯 Currently
 
