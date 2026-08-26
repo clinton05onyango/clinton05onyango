@@ -81,7 +81,7 @@ An ongoing e-commerce web application focused on product management, customers, 
 
 **Technologies:** PHP • MySQL • JavaScript • HTML5 • CSS3
 
-### Fintech Wallet & M-Pesa Integration
+### Fintech Wallet & M-Pesa Integration (clintonfsr)
 
 An ongoing fintech development project involving wallet management, transactions, deposits, M-Pesa STK Push integration, payment callbacks, transaction verification, and database processing.
 
