@@ -47,7 +47,7 @@ A full-stack web application that helps job seekers organize, manage, and monito
 
 💻 **Source Code:** https://github.com/clinton05onyango/job-application-tracker
 
-     Linkeldin Link:www.linkedin.com/in/clinton-undefined-7b807642a
+    **Linkeldin Link:**www.linkedin.com/in/clinton-undefined-7b807642a
 
 ## 🛠️ Technical Skills
 
