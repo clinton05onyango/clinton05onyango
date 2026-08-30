@@ -46,6 +46,7 @@ A full-stack web application that helps job seekers organize, manage, and monito
 🔗 **Live Demo:** https://job-application-tracker-0tmv.onrender.com/
 
 💻 **Source Code:** https://github.com/clinton05onyango/job-application-tracker
+**Linkeldin Link:**www.linkedin.com/in/clinton-undefined-7b807642a
 
 ## 🛠️ Technical Skills
 
