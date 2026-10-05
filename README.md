@@ -51,6 +51,7 @@ A full-stack web application designed to help job seekers organize, manage, and 
 * 🌐 **Live Demo:** [Job Application Tracker](https://job-application-tracker-0tmv.onrender.com/)
 * 🌐 **Live Demo:** [Kenya_Education_Platform](https://clintonproject.byethost7.com/kenya_education_platform/)
 * 🌐 **Live Demo:** [RukuShop](https://clintonproject.byethost7.com/RukuShop/)
+* 🌐 **Live Demo:** [Clintonfsr](https://clintonproject.byethost7.com/clintonfx)
 * 💻 **Source Code:** [GitHub Repository](https://github.com/clinton05onyango/job-application-tracker)
 
 ---
